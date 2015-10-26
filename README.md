@@ -25,10 +25,8 @@ USEFUL URL 我的收藏
 * [xiaoke](http://blog.1vr.cn/)
 * [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
 * [CodingFarmer](http://golanger.cn/)
-* [突壳开源](http://www.tok.cc/)
 * [juvenxu](http://www.juvenxu.com/)
 * [angryant](http://angryant.com/)
-* [r6](http://www.r66r.net/)
 * [小胡子哥](http://www.cnblogs.com/hustskyking/)
 * [四火的唠叨](http://www.raychase.net/)
 
@@ -160,43 +158,6 @@ USEFUL URL 我的收藏
 * [w3school离线资源](http://www.flygon.net/archives/427)
 
 
-### 关于图形学的
-
-* [opengpu](http://www.opengpu.org/forum.php)
-* [nehe](http://nehe.gamedev.net/)
-* [nehe-cn](http://www.yakergong.net/nehe/)
-* [unity-unite](http://unity3d.com/unite/archive)
-* [codesampler](http://www.codesampler.com/)
-* [nate robins](http://user.xmission.com/~nate/index.html)
-* [nvidia-developer](https://developer.nvidia.com/)
-* [gamedev](http://www.gamedev.net/)
-* [wiki-cg](http://en.wikibooks.org/wiki/Cg_Programming)
-* [wiki-glsl](http://en.wikibooks.org/wiki/GLSL_Programming)
-* [wiki-category-cg](http://en.wikibooks.org/wiki/Category:Cg_Programming)
-* [wiki-category-glsl](http://en.wikibooks.org/wiki/Category:GLSL_Programming)
-* [wiki-category-shader](http://en.wikibooks.org/wiki/Category:Shading_languages)
-* [wiki-category-language](http://en.wikibooks.org/wiki/Category:Computer_programming_languages)
-* [wiki-title-shader](http://wiki.unity3d.com/index.php?title=Shaders)
-* [wiki-unity-cg](http://en.wikibooks.org/wiki/Cg_Programming/Unity)
-* [cgcookie](http://cgcookie.com/)
-* [unity-built-in-shader](http://unity3d.com/unity/download/archive/)
-* [unity-manual-graphics](http://docs.unity3d.com/Manual/Graphics.html)
-* [nvidia-gpu-gems-demo](https://developer.nvidia.com/content/gpu-gems-downloads)
-* [nvidia-gpu-gems-book123](https://developer.nvidia.com/gpugems/GPUGems)
-* [nvidia-archive](https://developer.nvidia.com/archive)
-* [shaderx](http://tog.acm.org/resources/shaderx/)
-* [西川善司 3D图形技术 原文1-99回](http://news.mynavi.jp/column/graphics/)
-* [西川善司 3D图形技术 译文1-8回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7376&extra=page%3D1)
-* [西川善司 3D图形技术 译文9-13回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7550)
-
-
-###U3D补遗
-
-* [视频播放功能](http://blog.csdn.net/qinyuanpei/article/details/24130347)
-* [换装系统的实现](http://blog.csdn.net/qinyuanpei/article/details/24393683)
-* [怪物AI](http://blog.csdn.net/qinyuanpei/article/details/22748829)
-
-
 ###知识补遗
 
 * [c#---delegate关键字](http://www.cnblogs.com/wenjiang/archive/2013/03/12/2954913.html)
@@ -205,11 +166,6 @@ USEFUL URL 我的收藏
 * [Linq之路](http://www.cnblogs.com/lifepoem/archive/2011/12/16/2288017.html/)
 * [c# 扩展方法奇思妙用](http://www.cnblogs.com/ldp615/archive/2009/08/07/1541404.html/)
 * [Windbg调试命令详解](http://www.yiiyee.cn/Blog/windbg/)
-
-###U3D热更新相关
-
-* [Unity热更新解决方案](http://www.cnblogs.com/crazylights/p/3897742.html/)
-* [Unity热更新解决方案破解libmono.so](http://tieba.baidu.com/p/3047398187/)
 
 
 ###不知道归到哪类的
