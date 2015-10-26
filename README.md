@@ -17,7 +17,6 @@ USEFUL URL 我的收藏
 * [lucida](http://zh.lucida.me/)
 * [左耳朵耗子](http://coolshell.cn/)
 * [老罗的Android之旅](http://blog.csdn.net/Luoshengyang/)
-* [雨松MOMO](http://www.xuanyusong.com/)
 * [罗朝辉](http://www.cnblogs.com/kesalin/)
 * [陆泽西](http://www.luzexi.com/)
 * [xak的专栏](http://blog.csdn.net/cubesky/)
