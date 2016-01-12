@@ -167,6 +167,17 @@ USEFUL URL 我的收藏
 * [c# 扩展方法奇思妙用](http://www.cnblogs.com/ldp615/archive/2009/08/07/1541404.html/)
 * [Windbg调试命令详解](http://www.yiiyee.cn/Blog/windbg/)
 
+###MVC学习
+
+* [Introducing “Razor” – a new view engine for ASP.NET] (http://weblogs.asp.net/scottgu/archive/2010/07/02/introducing-razor.aspx)
+* [ASP.NET MVC 3: Layouts with Razor] (http://weblogs.asp.net/scottgu/archive/2010/10/22/asp-net-mvc-3-layouts.aspx)
+* [ASP.NET MVC 3: Server-Side Comments with Razor] (http://weblogs.asp.net/scottgu/archive/2010/11/12/asp-net-mvc-3-server-side-comments-with-razor.aspx)
+* [ASP.NET MVC 3: Razor’s @: and syntax] (http://weblogs.asp.net/scottgu/archive/2010/12/15/asp-net-mvc-3-razor-s-and-lt-text-gt-syntax.aspx)
+* [ASP.NET MVC 3: Layouts and Sections with Razor] (http://weblogs.asp.net/scottgu/archive/2010/12/30/asp-net-mvc-3-layouts-and-sections-with-razor.aspx)
+* [Introduction to ASP.NET Web Programming Using the Razor Syntax] (http://www.asp.net/webmatrix/tutorials/2-introduction-to-asp-net-web-programming-using-the-razor-syntax)
+* [[MSDN Labs] ASP.NET MVC 3 Razor] (http://msdn.microsoft.com/en-us/VS2010TrainingCourse_ASPNETMVC3Razor)
+
+
 
 ###不知道归到哪类的
 
